@@ -2,7 +2,6 @@ import React from "react";
 import "./Intro.css";
 import bg from "../../assets/myphoto.png";
 import btnImg from "../../assets/hireme.png";
-// import { Link } from "react-scroll";
 
 const Intro = () => {
   return (
@@ -18,12 +17,6 @@ const Intro = () => {
           <br /> with experience in creating visually appealing and user
           friendly websites.
         </p>
-        // <Link>
-        //   <button className="btn">
-        //     <img src={btnImg} alt="HireMe" className="btnImg" />
-        //     Hire Me
-        //   </button>
-        // </Link>
       </div>
 
       <img src={bg} alt="Profile" className="bg" />
