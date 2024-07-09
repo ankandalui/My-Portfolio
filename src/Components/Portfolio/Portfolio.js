@@ -34,7 +34,7 @@ const Portfolio = () => {
           <img src={Portfolio3} alt="Portfolio3" className="woksimg" />
         </a>{" "}
         <a
-          href="https://github.com/ankandalui/Ecommerce.git"
+          href="https://ikill.vercel.app/"
           className="worksImgWrapper"
         >
           <img src={Portfolio4} alt="Portfolio4" className="woksimg" />
